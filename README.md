@@ -83,6 +83,10 @@ Features to be completed by the mid of July:
 ## **Current Progress**
 For Milestone 1, we have created a to-do list tab where users will be able to create and delete task. There is also the Calendars tab where users will be able to create tasks with deadlines by clicking on the date on the calendar. We have not integrated the list in the Calendars tab with the list at the To-Do list tab.
 
+Technical proof of concept (ios may have issue): https://expo.dev/@felixchanyy/TaskMaster?serviceType=classic&distribution=expo-go
+
 <img src="https://github.com/jasperng-nus/orbitalsubmissions/assets/110957844/69e2dff1-13d4-419d-a368-2432ace815c1" width="300" height="700">
 <img src="https://github.com/jasperng-nus/orbitalsubmissions/assets/110957844/a775ee14-ba34-49c1-aed5-f037a5fca363" width="300" height="700">
+
+
 
