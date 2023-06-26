@@ -87,6 +87,12 @@ Technical proof of concept (ios may have issue): https://expo.dev/@felixchanyy/T
 
 <img src="https://github.com/jasperng-nus/orbitalsubmissions/assets/110957844/69e2dff1-13d4-419d-a368-2432ace815c1" width="300" height="700">
 <img src="https://github.com/jasperng-nus/orbitalsubmissions/assets/110957844/a775ee14-ba34-49c1-aed5-f037a5fca363" width="300" height="700">
+![photo_2023-06-26 12 25 26](https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/030d6a19-39f3-4ba5-bba6-c3ac6276bb62)
+![photo_2023-06-26 12 25 23](https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/92bf43aa-a35c-4b14-b0a6-f2af9bfe29f8)
+![photo_2023-06-26 12 25 20](https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/5039115c-fec2-4208-a079-81358649a011)
+![photo_2023-06-26 12 25 17](https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/117510b4-0395-49a4-a9d7-44dc53bbc6b8)
+![photo_2023-06-26 12 25 12](https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/418f2c79-cc2c-4043-9a97-a33ef31e193d)
+![photo_2023-06-26 12 25 09](https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/83b02995-1929-43c6-a7ae-5c633bc7d189)
 
 
 
