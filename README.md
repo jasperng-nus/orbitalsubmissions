@@ -84,15 +84,16 @@ Features to be completed by the mid of July:
 For Milestone 1, we have created a to-do list tab where users will be able to create and delete task. There is also the Calendars tab where users will be able to create tasks with deadlines by clicking on the date on the calendar. We have not integrated the list in the Calendars tab with the list at the To-Do list tab.
 
 Technical proof of concept (ios may have issue): https://expo.dev/@felixchanyy/TaskMaster?serviceType=classic&distribution=expo-go
-
-<img src="https://github.com/jasperng-nus/orbitalsubmissions/assets/110957844/69e2dff1-13d4-419d-a368-2432ace815c1" width="300" height="700">
-<img src="https://github.com/jasperng-nus/orbitalsubmissions/assets/110957844/a775ee14-ba34-49c1-aed5-f037a5fca363" width="300" height="700">
-<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/030d6a19-39f3-4ba5-bba6-c3ac6276bb62" width="300" height="700">
-<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/92bf43aa-a35c-4b14-b0a6-f2af9bfe29f8" width="300" height="700">
-<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/5039115c-fec2-4208-a079-81358649a011" width="300" height="700">
-<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/117510b4-0395-49a4-a9d7-44dc53bbc6b8" width="300" height="700">
-<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/418f2c79-cc2c-4043-9a97-a33ef31e193d" width="300" height="700">
 <img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/83b02995-1929-43c6-a7ae-5c633bc7d189" width="300" height="700">
+<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/418f2c79-cc2c-4043-9a97-a33ef31e193d" width="300" height="700">
+<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/117510b4-0395-49a4-a9d7-44dc53bbc6b8" width="300" height="700">
+<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/5039115c-fec2-4208-a079-81358649a011" width="300" height="700">
+<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/92bf43aa-a35c-4b14-b0a6-f2af9bfe29f8" width="300" height="700">
+<img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/030d6a19-39f3-4ba5-bba6-c3ac6276bb62" width="300" height="700">
+
+
+
+
 
 
 
