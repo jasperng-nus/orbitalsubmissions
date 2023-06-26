@@ -1,4 +1,4 @@
-<h2 align="center">NUS Orbital 2023 - Milestone 1</h2>
+<h2 align="center">NUS Orbital 2023 - Milestone 2</h2>
 
 ### **Team Name:**
 TaskMaster
@@ -81,7 +81,7 @@ Features to be completed by the mid of July:
 3. Login System (Login using NUS/Google Accounts)
 
 ## **Current Progress**
-For Milestone 1, we have created a to-do list tab where users will be able to create and delete task. There is also the Calendars tab where users will be able to create tasks with deadlines by clicking on the date on the calendar. We have not integrated the list in the Calendars tab with the list at the To-Do list tab.
+For Milestone 2, we have created a to-do list tab where users will be able to create and delete tasks as well as set a deadline. All of these data are linked to our backend database on Firebase. There is also the Calendar tab where users will be able to view which date they have set a task for. We have also implemented an authentication feature, where users will be able to register an account and log in with it. The account has its own unique user id where its todos are unique to each account where all of these data are stored in Firebase. We have also implemented a forget password feature where it will send an email to the user to change their password. We are still trying to figure out how to allow sign-in with the user's Google account, as well as integrating the calendars from other platforms. More features will be added by Milestone 3, such as prioritisation, reminders, colour tags, as well as displaying todos within the same month at the Calendar tab.
 
 Technical proof of concept (ios may have issue): https://expo.dev/@felixchanyy/TaskMaster?serviceType=classic&distribution=expo-go
 <img src= "https://github.com/jasperng-nus/orbitalsubmissions/assets/111300022/83b02995-1929-43c6-a7ae-5c633bc7d189" width="300" height="700">
